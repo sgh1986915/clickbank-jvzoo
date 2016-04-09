@@ -1,0 +1,8 @@
+1) Unzipall the files in the zip file onto the server
+
+2) Set up the database and then execute the script in the file SqlScript.sql
+
+3) Update the Constants.php file with the database connection values.
+
+4) Update the click better control panel with the callback URL.
+
