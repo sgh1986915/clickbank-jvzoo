@@ -1,0 +1,19 @@
+/* CSS Document */
+
+.hidefromprint{
+display:none;}
+
+.leftNav{
+display:none;}
+
+.headerprint{
+display:block;}
+.header{
+display:none;}
+
+.footer{
+display:none;}
+
+.programeactions{
+display:none;}
+	
